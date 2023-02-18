@@ -2,7 +2,7 @@
 my_VIM - моя учебная задача, целью является написание аналога текстового редактора VIM на основе самописного класса MyString - аналога класса String.
 В моей программе подготовки ООП преподается на английском языке, так что далее все будет на английском.
 
-As a result of working on this project I get the application with class diagram:
+As a result of working on this project I get the application with UML class diagram:
 ![Снимок экрана 2023-02-18 164855](https://user-images.githubusercontent.com/56561519/219869767-6ed881ac-77c8-480a-856d-1ee33570f431.jpg)
 
 **User’s guide:**<br/>
